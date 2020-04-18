@@ -9,7 +9,7 @@
 
 
 #### 运行
-1、启动redis消息队列，[代码在这里](https://github.com/legolas-zeng/GOPATH/tree/master/src/code/socket-code)
+1、启动redis消息队列，一定要先启动redis，[代码在这里](https://github.com/legolas-zeng/GOPATH/tree/master/src/code/socket-code)
 
 `
 redis-server
